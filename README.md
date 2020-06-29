@@ -1,3 +1,7 @@
+Fixed with https://github.com/JorelAli/1.13-Command-API/issues/103
+
+Once the release (like 3.1 or something) comes out, I'll probably delete this repo
+
 Project to test out 1.13CommandAPI 3.0 and why it doesn't work with gradle
 
 Usage:
