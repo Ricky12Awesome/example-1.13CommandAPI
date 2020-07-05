@@ -12,5 +12,6 @@ repositories {
 
 dependencies {
   implementation(kotlin("stdlib"))
+  // Change version to 3.1 or 3.2, for some reason it doesn't get the source jar
   api("dev.jorel:commandapi:3.0")
 }
